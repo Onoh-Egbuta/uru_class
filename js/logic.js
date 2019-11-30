@@ -20,31 +20,31 @@
 //     alert("Not eligible of age to apply for current positions")
 // // }
 
-var Execellent = 100
-var VeryGood = 69
-var Credit = 59
-var LowerCredit = 54
-var Pass = 44
-var Fail = 34
-var Score = prompt (" enter your  score")
-if (score > execellent) {
-    alert ("error")
-}
-else if ((score < execellent) &&(score >= veryGood)) {
-    alert ("execellent")
-}
-else if ((score <veryGood) && (score >= credit)) {
-    alert (" very good")
-}
-else if ((score < credit) &&(score >= LowerCredit)) {
-    alert ("credit")
-}
-else if((score< LowerCredit) &&(score >= pass)) {
-    alert ("lower credit")
-}
-else if ((score < pass) &&(score >= fail)) {
-    alert ("Pass")
-}
+// var Execellent = 100
+// var VeryGood = 69
+// var Credit = 59
+// var LowerCredit = 54
+// var Pass = 44
+// var Fail = 34
+// var Score = prompt (" enter your  score")
+// if (score > execellent) {
+//     alert ("error")
+// }
+// else if ((score < execellent) &&(score >= veryGood)) {
+//     alert ("execellent")
+// }
+// else if ((score <veryGood) && (score >= credit)) {
+//     alert (" very good")
+// }
+// else if ((score < credit) &&(score >= LowerCredit)) {
+//     alert ("credit")
+// }
+// else if((score< LowerCredit) &&(score >= pass)) {
+//     alert ("lower credit")
+// }
+// else if ((score < pass) &&(score >= fail)) {
+//     alert ("Pass")
+// }
 
-else {}
-alert ( "fail")
+// else {}
+// alert ( "fail")
